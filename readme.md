@@ -1,13 +1,13 @@
 <h1 align="center">Salut 👋, je suis Alec</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=500&lines=Étudiant+en+Master+1+Data-IA+%F0%9F%93%9A;Spécialité+Data+Engineering+%F0%9F%92%BB;Passionné+par+la+donnée+et+l'IA+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=500&lines=Étudiant+en+bachelor+3+Data-IA+%F0%9F%93%9A;;Passionné+par+la+donnée+et+l'IA+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
-🎓 **Master 1 Data-IA** – Spécialité **Data Engineering**  
+🎓 **bachelor 3 Data-IA** 
 🧠 Étudiant passionné par la **data science**, le **développement logiciel**, et la **modélisation prédictive**.  
-📍 Basé en France.
+📍 Basé a Montpellier.
 
 ---
 
