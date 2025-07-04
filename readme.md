@@ -71,9 +71,3 @@ Motivé, rigoureux et passionné par la donnée, je souhaite mettre mes compéte
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Alec34pi)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pibre-alec/)  
 📧 **Email** : pibre.alec@gmail.com
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Alec34pi/Alec34pi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
