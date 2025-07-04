@@ -61,8 +61,6 @@ Motivé, rigoureux et passionné par la donnée, je souhaite mettre mes compéte
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alec34pi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alec34pi&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
