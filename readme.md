@@ -36,6 +36,7 @@ Pandas · NumPy · Seaborn · Scikit-learn
 Nettoyage de données · Web scraping  
 Visualisation de données  
 Modèles prédictifs
+
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black)
 
 ---
