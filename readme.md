@@ -1,22 +1,13 @@
 <h1 align="center">Salut, je suis Alec</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=500&lines=Étudiant+en+bachelor+3+Data-IA+%F0%9F%93%9A;Passionné+par+la+donnée+et+l'IA+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=500&lines=Étudiant+en+Master+1+Data+%F0%9F%93%9A;Passionné+par+la+donnée+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
-**bachelor 3 Data-IA** 
+**Master 1 Data-IA, spé Data Engineer** 
 Étudiant passionné par la **data science**, le **développement logiciel**, et la **modélisation prédictive**.  
 Basé a Montpellier.
-
----
-
-### Recherche d’alternance
-
-Je suis actuellement à la recherche d’une **alternance pour mon Master 1 et 2** en **Data Engineering / Data Science**.  
-Motivé, rigoureux et passionné par la donnée, je souhaite mettre mes compétences en pratique dans un environnement stimulant et innovant.
-
-**N’hésitez pas à me contacter pour toute opportunité !**
 
 ---
 
@@ -45,24 +36,23 @@ Pandas · NumPy · Seaborn · Scikit-learn
 Nettoyage de données · Web scraping  
 Visualisation de données  
 Modèles prédictifs
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black)
 
 ---
 
-### Projets en cours
+### Projets
 
 - [**Yshop** – Prédiction des ventes](https://github.com/Alec34pi/Yshop)  
-  Projet de data science avec modélz prédictif et visualisation.
+  Projet de data science avec modéle prédictif et visualisation et son API
+  [**YshopAPI** – API Yshop](https://github.com/Alec34pi/YshopAPI)  
 
-- [**PixelBots** – Jeu Unity (platformer 2D)](https://gitlab.com/le-group2/pixelbots)  
+- [**ChatBot IRTS**](https://github.com/Alec34pi/chatBotFAIREESS)  
+  Chatbot réalisé dans le cadre d'un stage de 4 mois à l'IRTS de Montpellier.
+
+- [**PixelBots** – Jeu Unity (platformer 2D)](https://github.com/Alec34pi/PixelBots)  
   Jeu collaboratif développé avec Unity et C#.
 
 ---
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alec34pi&layout=compact&theme=radical" alt="Top Langs" />
-</p>
 
 ---
 
