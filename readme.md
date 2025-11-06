@@ -1,7 +1,4 @@
 <h1 align="center">Salut, je suis Alec</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=500&lines=Étudiant+en+Master+1+Data+%F0%9F%93%9A;Passionné+par+la+donnée+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -28,6 +25,7 @@ Basé a Montpellier.
 ![Access](https://img.shields.io/badge/-MS%20Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)  
 🧠 Merise (modélisation & analyse)
 
 #### Data Science / IA
@@ -38,6 +36,7 @@ Visualisation de données
 Modèles prédictifs
 
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-1A73E8?style=flat&logo=lookerstudio&logoColor=white)
 
 ---
 
@@ -50,8 +49,8 @@ Modèles prédictifs
 - [**ChatBot IRTS**](https://github.com/Alec34pi/chatBotFAIREESS)  
   Chatbot réalisé dans le cadre d'un stage de 4 mois à l'IRTS de Montpellier.
 
-- [**PixelBots** – Jeu Unity (platformer 2D)](https://github.com/Alec34pi/PixelBots)  
-  Jeu collaboratif développé avec Unity et C#.
+- [**BRB CORP** – site E-commerce B to B]([https://github.com/Alec34pi/PixelBots](https://github.com/Hachlko/Projet-B2B))  
+  Site E-commerce de vente de chaussures réalisé dans le cadre d'un stage de 2 mois chez BRB CORP.
 
 ---
 
