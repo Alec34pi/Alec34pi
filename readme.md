@@ -49,7 +49,7 @@ Modèles prédictifs
 - [**ChatBot IRTS**](https://github.com/Alec34pi/chatBotFAIREESS)  
   Chatbot réalisé dans le cadre d'un stage de 4 mois à l'IRTS de Montpellier.
 
-- [**BRB CORP** – site E-commerce B to B]([https://github.com/Alec34pi/PixelBots](https://github.com/Hachlko/Projet-B2B))  
+- [**BRB CORP** – site E-commerce B to B](https://github.com/Hachlko/Projet-B2B)  
   Site E-commerce de vente de chaussures réalisé dans le cadre d'un stage de 2 mois chez BRB CORP.
 
 ---
